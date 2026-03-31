@@ -876,7 +876,7 @@ MonoBehaviour:
     m_Flags: 0
   score: 0
   gems: 0
-  bounds: {x: 10, y: 5}
+  bounds: {x: 8, y: 4}
   target: {fileID: 1763634064406620150, guid: c6d1e5c8d28e7d545840b183b87a7605, type: 3}
   gem: {fileID: 3552454904715276310, guid: 9d9ea81f1e8363c45a1a950f5d10eb02, type: 3}
   gemChance: 0.2
